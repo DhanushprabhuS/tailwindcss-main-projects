@@ -3,7 +3,7 @@ Hello ⚡,
 
 I am happy to share my Tailwindcss Project Showcase. 
 
-I have build Six different Awesome Landing pages!🚀
+I have build six different set of Awesome Landing pages!🚀
 
 #Project Showcase Live at https://dhanushprabhus.github.io/tailwindcss-main-projects/ (Responsive)
 

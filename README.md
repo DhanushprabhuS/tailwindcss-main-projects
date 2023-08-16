@@ -13,10 +13,10 @@ I have build Six different Awesome Landing pages!🚀
 
 | Name | Link |
 | --- | --- |
-| Clipboard page | List all new or modified files |
-| Loopstudio | Show file differences that haven't been staged |
-| Shortly | List all new or modified files |
-| Testimonial Grids | Show file differences that haven't been staged |
-| Flyo (Dark/Light) | List all new or modified files |
-| Bookmark Manager | Show file differences that haven't been staged |
+| Clipboard page | https://dhanushprabhus.github.io/tailwindcss-main-projects/clipboard-website/index.html |
+| Loopstudio | https://dhanushprabhus.github.io/tailwindcss-main-projects/loops-studio/index.html |
+| Shortly | https://dhanushprabhus.github.io/tailwindcss-main-projects/link-short/index.html |
+| Testimonial Grids | https://dhanushprabhus.github.io/tailwindcss-main-projects/testimonial-grid/index.html |
+| Flyo (Dark/Light) | https://dhanushprabhus.github.io/tailwindcss-main-projects/fylo/index.html |
+| Bookmark Manager | https://dhanushprabhus.github.io/tailwindcss-main-projects/bookmark/index.html |
 
